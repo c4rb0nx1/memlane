@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+.graymatter/
+
+# Vector indices are derived. Rebuild from source via the rebuild_index tool.
+**/_vectors.json
